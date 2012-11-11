@@ -1,0 +1,6 @@
+.*.sw[op]
+bin
+obj
+Properties
+*.csproj
+app.config
